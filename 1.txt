@@ -1,4 +1,8 @@
 1.txt created
+<<<<<<< HEAD
 in master
 hotfix
+=======
+modified
+>>>>>>> issue1
 
